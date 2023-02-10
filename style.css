@@ -1,0 +1,31 @@
+.flex_item {
+    padding:10px;
+    margin: 10px;
+    background-color: rgb(255, 115, 0)3, 0, 255);
+    color:white  (206, 56, 56);
+  }
+  .flex {
+    padding: 10px;
+    margin: 10px;
+    /* Set the property display to flex below! */
+  }
+  #column {
+    background-color: #E6F5FF;
+    /* Set the property flex direction to column below! */
+  }
+  #row {
+    background-color: #deffe9;
+  /* Set the property flex-direction to row below! */
+  }
+.navbar{
+    position: relative;
+     height: 50px;width: 20000px;
+    background-color: blue;
+}
+.trext{
+  background-color: rgb(167, 54, 54);
+  height: 100px; width: 700px;
+  color: beige;
+  font-family:Cursive;
+  padding: 30px ;
+}
